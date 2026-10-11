@@ -1,8 +1,8 @@
 
 {
-  "name": "BikeVisible",
+  "name": "BikeVisible GPS",
   "short_name": "BikeVisible",
-  "description": "Rear visibility screen for cyclists",
+  "description": "Cycling GPS tracking and rear visibility",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
