@@ -1,0 +1,12 @@
+
+{
+  "name": "BikeVisible",
+  "short_name": "BikeVisible",
+  "description": "Rear visibility screen for cyclists",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101010",
+  "theme_color": "#d90000"
+}
